@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=27F240&random=false&width=435&lines=Welcome+to+my+github+page+%3A)+" alt="Typing SVG" /></a>
 
 <!--
 **arjun051/arjun051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
